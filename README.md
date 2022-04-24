@@ -1,5 +1,7 @@
 PATTERN RECOGNITION
 
+(1st Semester Course of the MSc Data Science and Machine Learning from the NTUA)
+
 Description
 
 Introduction to the theory and algorithms of statistical pattern recognition with applications to recognition of sounds 
