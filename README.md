@@ -1,6 +1,7 @@
 PATTERN RECOGNITION
 
 Description
+
 Introduction to the theory and algorithms of statistical pattern recognition with applications to recognition of sounds 
 (e.g. speech, music), visual objects, audio-visual events, and other spatio-temporal sensory or symbolic data. 
 Bayesian decision and estimation theory (Maximum Likelihood, Maximum-A-Posteriori). Nearest neighbor decision rule. 
@@ -11,6 +12,7 @@ Hidden Markov models (HMMs), Gaussian Mixture models (GMMs), Expectation-Maximiz
 Probabilistic graphical models.  Deep learning methods: Deep, Convolutional, Recursive Neural Nets (DNNs CNNs, RNNs). Analytic and laboratory exercises.
 
 Bibliography
+
 •	[DHS] R. O. Duda, P.E. Hart and D.G. Stork,
 Pattern Classification,
 Wiley, 2001. 
