@@ -14,10 +14,13 @@ Bibliography
 •	[DHS] R. O. Duda, P.E. Hart and D.G. Stork,
 Pattern Classification,
 Wiley, 2001. 
+
 •	[Bishop] C. M. Bishop, 
 Pattern Recognition and Machine Learning,
 Springer, 2006. 
+
 •	[Goodfellow-et-al], I. Goodfellow, Y. Bengio and A. Courville, Deep Learning, MIT Press, http://www.deeplearningbook.org . 
+
 •	[Theodoridis 2020] S. Theodoridis,  "Machine Learning: A Bayesian and optimisation perspective", Academic Press, 2nd Edition, 2020.
 
 
