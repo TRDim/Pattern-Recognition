@@ -1,6 +1,7 @@
 # PATTERN RECOGNITION
 
 (1st Semester Course of the MSc Data Science and Machine Learning from the NTUA)
+https://dsml.ece.ntua.gr/
 
 ## Description
 
