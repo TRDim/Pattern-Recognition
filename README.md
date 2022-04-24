@@ -1,8 +1,8 @@
-#PATTERN RECOGNITION
+# PATTERN RECOGNITION
 
 (1st Semester Course of the MSc Data Science and Machine Learning from the NTUA)
 
-##Description
+## Description
 
 Introduction to the theory and algorithms of statistical pattern recognition with applications to recognition of sounds 
 (e.g. speech, music), visual objects, audio-visual events, and other spatio-temporal sensory or symbolic data. 
@@ -13,7 +13,7 @@ Methods for linear and nonlinear regression. Pattern classification methods with
 Hidden Markov models (HMMs), Gaussian Mixture models (GMMs), Expectation-Maximization algorithm, Viterbi algorithm.  Dynamic Bayesian nets.
 Probabilistic graphical models.  Deep learning methods: Deep, Convolutional, Recursive Neural Nets (DNNs CNNs, RNNs). Analytic and laboratory exercises.
 
-##Bibliography
+## Bibliography
 
 •	[DHS] R. O. Duda, P.E. Hart and D.G. Stork,
 Pattern Classification,
