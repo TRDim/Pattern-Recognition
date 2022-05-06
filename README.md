@@ -4,6 +4,11 @@
 
 https://dsml.ece.ntua.gr/
 
+## Professors 
+
+• Petros Maragos (http://cvsp.cs.ntua.gr/maragos/)
+• Alexandros Potamianos (http://www.potam.com/)
+
 ## Description
 
 Introduction to the theory and algorithms of statistical pattern recognition with applications to recognition of sounds 
@@ -28,6 +33,7 @@ Springer, 2006.
 •	[Goodfellow-et-al], I. Goodfellow, Y. Bengio and A. Courville, Deep Learning, MIT Press, http://www.deeplearningbook.org . 
 
 •	[Theodoridis 2020] S. Theodoridis,  "Machine Learning: A Bayesian and optimisation perspective", Academic Press, 2nd Edition, 2020.
+
 
 
 
