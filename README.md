@@ -7,6 +7,7 @@ https://dsml.ece.ntua.gr/
 ## Professors 
 
 • Petros Maragos (http://cvsp.cs.ntua.gr/maragos/)
+
 • Alexandros Potamianos (http://www.potam.com/)
 
 ## Description
